@@ -1,0 +1,12 @@
+first:
+    path: /first
+    defaults: { _controller: AcmeDemoBundle:Homework:first }
+
+second:
+    path: /second
+    defaults: { _controller: AcmeDemoBundle:Homework:second}
+
+
+third:
+     path: /third
+     defaults: { _controller: AcmeDemoBundle:Homework:third}
